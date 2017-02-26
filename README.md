@@ -14,4 +14,12 @@ Le but ce se projet est de pouvoir experimenter progressivement les notions deco
 
 ### Etapes 1 - 27 février - VanillaJS
 
-Consigne à venir
+1. Sur une branche autre que master, modifier ses informations dans `students.json`, puis pusher sa branche et faire une pullrequest sur le repo originale.
+2. Aller verifier est merger les pullRequest des autres éléves.
+3. Une fois que le fichier `students.json` est complété par tous les éléves mettre à jour son fork par rapport au repo original.
+4. Ecrire dans le fichier `Student.js` un script qui permet d'afficher dans `index.html` la liste des éléves de `students.json`. La liste devra être ordonné par ordre alphabétique et retourner toutes les informations de chaques élèves.
+5. Utiliser Bootstrap (ou autres framework CSS) pour rendre le tout plus sexy.
+
+### Etapes 2 - Date à définir - Github API
+
+*Consignes à venir* 
