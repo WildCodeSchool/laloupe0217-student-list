@@ -2,7 +2,7 @@
   {
     "firstname":"Cendrine",
     "lastname":	"Buisson",
-    "sexe": "male",
+    "sexe": "female",
     "birthdate": "02-28-2017",
     "city": "La Loupe",
     "postal-code": "28240",
@@ -12,7 +12,7 @@
   {
     "firstname":"Sabrina",
     "lastname":	"Mardjoeki",
-    "sexe": "male",
+    "sexe": "female",
     "birthdate": "02-28-2017",
     "city": "La Loupe",
     "postal-code": "28240",
@@ -182,7 +182,7 @@
   {
     "firstname":"Nailletine",
     "lastname":	"Lajoie",
-    "sexe": "male",
+    "sexe": "female",
     "birthdate": "02-28-2017",
     "city": "La Loupe",
     "postal-code": "28240",
@@ -192,7 +192,7 @@
   {
     "firstname":"Angélique",
     "lastname":	"Cléry",
-    "sexe": "male",
+    "sexe": "female",
     "birthdate": "02-28-2017",
     "city": "La Loupe",
     "postal-code": "28240",
