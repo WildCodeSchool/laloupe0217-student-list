@@ -245,12 +245,12 @@
     "firstname":"Martin",
     "lastname":	"Allard",
     "sexe": "male",
-    "birthdate": "02-28-2017",
-    "city": "La Loupe",
-    "postal-code": "28240",
-    "adress": "18 rue de la Gare",
-    "github": "",
-    "email": ""
+    "birthdate": "07-05-1992",
+    "city": "Luisant",
+    "postal-code": "28600",
+    "adress": "66, rue Henri Dunant",
+    "github": "maallard",
+    "email": "mar.allard@gmail.com"
   },
   {
     "firstname":"Philippe",
