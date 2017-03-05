@@ -102,12 +102,12 @@
     "firstname":"Sébastien",
     "lastname":	"Leheup",
     "sexe": "male",
-    "birthdate": "02-28-2017",
-    "city": "La Loupe",
-    "postal-code": "28240",
-    "adress": "18 rue de la Gare",
-    "github": "",
-    "email": ""
+    "birthdate": "01-20-1993",
+    "city": "Verneuil sur Seine",
+    "postal-code": "78480",
+    "adress": "26 allée des cerfs",
+    "github": "WolfyL",
+    "email": "s.leheup@gmail.com"
   },
   {
     "firstname":"Stéphane",
@@ -245,7 +245,7 @@
     "firstname":"Martin",
     "lastname": "Allard",
     "sexe": "male",
-    "birthdate": "07-05-1992",
+    "birthdate": "05-07-1992",
     "city": "Luisant",
     "postal-code": "28600",
     "adress": "66, rue Henri Dunant",
