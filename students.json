@@ -34,14 +34,14 @@
   },
   {
     "firstname":"David",
-    "lastname":	"Pereira",
+    "lastname": "Pereira",
     "sexe": "male",
-    "birthdate": "02-28-2017",
-    "city": "La Loupe",
-    "postal-code": "28240",
-    "adress": "18 rue de la Gare",
-    "github": "",
-    "email": ""
+    "birthdate": "10-16-1993",
+    "city": "Noisy-le-Sec",
+    "postal-code": "93130",
+    "adress": "18 rue Paul Vaillant Couturier",
+    "github": "DeRosario",
+    "email": "davidveiga.pereira@gmail.com"
   },
   {
     "firstname":"Jordan",
