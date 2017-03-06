@@ -1,14 +1,14 @@
 [
   {
-    "firstname":"Cendrine",
-    "lastname":	"Buisson",
+    "firstname": "Cendrine",
+    "lastname": "Buisson",
     "sexe": "female",
-    "birthdate": "02-28-2017",
-    "city": "La Loupe",
-    "postal-code": "28240",
-    "adress": "18 rue de la Gare",
-    "github": "",
-    "email": ""
+    "birthdate": "08-16-1993",
+    "city": "Morainvilliers",
+    "postal-code": "78630",
+    "adress": "87 Grande rue",
+    "github": "cendrine-b",
+    "email": "cendrine.buisson@gmail.com"
   },
   {
     "firstname":"Sabrina",
