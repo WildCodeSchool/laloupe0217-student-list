@@ -256,12 +256,12 @@
     "firstname":"Philippe",
     "lastname":	"Boudet",
     "sexe": "male",
-    "birthdate": "02-28-2017",
-    "city": "La Loupe",
-    "postal-code": "28240",
-    "adress": "18 rue de la Gare",
-    "github": "",
-    "email": ""
+    "birthdate": "10-26-1968",
+    "city": "Amilly",
+    "postal-code": "28300",
+    "adress": "15 rue de la Gare",
+    "github": "philboud",
+    "email": "philippe.boudet42@gmail.com"
   },
   {
     "firstname":"Guillaume",
