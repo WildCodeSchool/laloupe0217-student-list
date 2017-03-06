@@ -58,12 +58,12 @@
     "firstname":"Michel",
     "lastname":	"Domingos",
     "sexe": "male",
-    "birthdate": "02-28-2017",
-    "city": "La Loupe",
-    "postal-code": "28240",
-    "adress": "18 rue de la Gare",
-    "github": "",
-    "email": ""
+    "birthdate": "01-03-1970",
+    "city": "Lanquetot",
+    "postal-code": "76210",
+    "adress": "204 route du petit lanquetot",
+    "github": "mdomin76",
+    "email": "m.domingos76@gmail.com"
   },
   {
     "firstname":"Philippe",
