@@ -91,12 +91,12 @@
     "firstname":"Valentin",
     "lastname":	"Nicolas",
     "sexe": "male",
-    "birthdate": "02-28-2017",
-    "city": "La Loupe",
-    "postal-code": "28240",
-    "adress": "18 rue de la Gare",
-    "github": "",
-    "email": ""
+    "birthdate": "05-15-1991",
+    "city": "Fontenay sur Eure",
+    "postal-code": "28630",
+    "adress": "4 clos guynemer",
+    "github": "Valncls",
+    "email": "valentin.ncls@gmail.com"
   },
   {
     "firstname":"Sébastien",
