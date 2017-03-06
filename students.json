@@ -47,12 +47,12 @@
     "firstname":"Jordan",
     "lastname":	"Couard",
     "sexe": "male",
-    "birthdate": "02-28-2017",
-    "city": "La Loupe",
-    "postal-code": "28240",
-    "adress": "18 rue de la Gare",
-    "github": "",
-    "email": ""
+    "birthdate": "03-02-1993",
+    "city": "Romorantin-Lanthenay",
+    "postal-code": "41200",
+    "adress": "101 Rue de Loreux",
+    "github": "jordan-couard",
+    "email": "jordan.couard@gmail.com"
   },
   {
     "firstname":"Michel",
