@@ -268,11 +268,11 @@
     "lastname":	"Sauvanon",
     "sexe": "male",
     "birthdate": "02-28-2017",
-    "city": "La Loupe",
-    "postal-code": "28240",
-    "adress": "18 rue de la Gare",
-    "github": "",
-    "email": ""
+    "city": "Chartres",
+    "postal-code": "2800",
+    "adress": "15 rue des Réservoirs",
+    "github": "Oriav",
+    "email": "sauvanon.guillaume@gmail.com"
   },
   {
     "firstname":"Sully",
