@@ -69,12 +69,12 @@
     "firstname":"Philippe",
     "lastname":	"Pinceloup",
     "sexe": "male",
-    "birthdate": "02-28-2017",
-    "city": "La Loupe",
-    "postal-code": "28240",
-    "adress": "18 rue de la Gare",
-    "github": "",
-    "email": ""
+    "birthdate": "11-25-1987",
+    "city": "Nogent-le-Rotrou",
+    "postal-code": "28400",
+    "adress": "13 avenue de la Victoire",
+    "github": "ZeFifi",
+    "email": "ph.pinceloup@gmail.com"
   },
   {
     "firstname":"Clément",
