@@ -45,7 +45,7 @@
   },
   {
     "firstname":"Jordan",
-    "lastname":	"Couard",
+    "lastname": "Couard",
     "sexe": "male",
     "birthdate": "03-02-1993",
     "city": "Romorantin-Lanthenay",
@@ -157,12 +157,12 @@
     "firstname":"Emmanuel",
     "lastname":	"Jousselin",
     "sexe": "male",
-    "birthdate": "02-28-2017",
-    "city": "La Loupe",
-    "postal-code": "28240",
-    "adress": "18 rue de la Gare",
-    "github": "",
-    "email": ""
+    "birthdate": "11-14-1985",
+    "city": "La Ferté Vidame",
+    "postal-code": "28340",
+    "adress": "40 rue des bruyères",
+    "github": "Emmanuel-Jousselin",
+    "email": "lafertevidame@gmail.com"
   },
   {
     "firstname": "Jehan",
@@ -284,5 +284,16 @@
     "adress": "8 avenue Coriolan",
     "github": "madasly",
     "email": "madasly@gmail.com"
+  },
+  {
+    "firstname":"Julien",
+    "lastname": "Rabin",
+    "sexe": "male",
+    "birthdate": "01-02-1991",
+    "city": "Fretigny",
+    "postal-code": "28480",
+    "adress": "Brimont",
+    "github": "julienr114",
+    "email": "julien@wildcodeschool.fr"
   }
 ]
