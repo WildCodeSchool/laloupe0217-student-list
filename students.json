@@ -265,11 +265,11 @@
   },
   {
     "firstname":"Guillaume",
-    "lastname":	"Sauvanon",
+    "lastname": "Sauvanon",
     "sexe": "male",
-    "birthdate": "02-28-2017",
+    "birthdate": "12-07-1989",
     "city": "Chartres",
-    "postal-code": "2800",
+    "postal-code": "28000",
     "adress": "15 rue des Réservoirs",
     "github": "Oriav",
     "email": "sauvanon.guillaume@gmail.com"
