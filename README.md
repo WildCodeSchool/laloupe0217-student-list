@@ -32,6 +32,6 @@ Le but ce se projet est de pouvoir experimenter progressivement les notions deco
 
 Reportez sur la MEAN Stack votre code de l'etape 1. 
 
-1 - Créer un model student.
-2 - Mettre en place un CRUD classic avec un findById.
+1. Créer un model student.
+2. Mettre en place un CRUD classic avec un findById.
 
