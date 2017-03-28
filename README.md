@@ -28,6 +28,10 @@ Le but ce se projet est de pouvoir experimenter progressivement les notions deco
 5. Ecrire dans le fichier `Student.js` un script qui permet d'afficher dans `index.html` la liste des éléves de `students.json`. La liste devra être ordonné par ordre alphabétique et retourner toutes les informations de chaques élèves.
 6. Utiliser Bootstrap (ou autres framework CSS) pour rendre le tout plus sexy.
 
-### Etapes 2 - Date à définir - Github API
+### Etapes 2 - 28 mars - Mean Stack
 
-*Consignes à venir* 
+Reportez sur la MEAN Stack votre code de l'etape 1. 
+
+1. Créer un model student.
+2. Mettre en place un CRUD classic avec un findById.
+
