@@ -73,11 +73,20 @@ angular.module('app')
                 }
             })
             .state('user.createStudent', {
-                url: '/new-student',
+                url: '/students/new',
                 views: {
                     'content@': {
                         templateUrl: 'student/create.html',
                         controller: 'CreateStudentController'
+                    }
+                }
+            })
+            .state('user.studentList', {
+                url: '/students',
+                views: {
+                    'content@': {
+                        templateUrl: 'student/list.html',
+                        controller: 'StudentController'
                     }
                 }
             });

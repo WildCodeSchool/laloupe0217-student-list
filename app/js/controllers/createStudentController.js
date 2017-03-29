@@ -18,7 +18,7 @@ angular.module('app')
         // good
       }, function (err) {
         // bad
-      })
+      });
     };
 
   });

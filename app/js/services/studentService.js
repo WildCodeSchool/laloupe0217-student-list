@@ -3,6 +3,9 @@ angular.module('app')
         return {
             create: function (student) {
                 return $http.post('/students', student)
+            },
+            getAll: function () {
+                return $http.get('/students')
             }
         };
     });
